@@ -1,5 +1,6 @@
 
 name: gopath_init
+第一步,在vscode中,安装go插件
 clone 下来之后直接把文件复制到gopath目录即可,如果已经配置好了gopath,那么直接 git clone github.com/amandayi/gopath_init %GOPATH%
 ```go
     git clone github.com/amandayi/gopath_init
